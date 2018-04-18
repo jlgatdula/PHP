@@ -1,0 +1,7 @@
+How to run php files if you have xampp
+
+save in xampp -> htdocs
+
+open browser
+
+type: localhost/filename.php
